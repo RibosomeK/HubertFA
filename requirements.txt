@@ -18,3 +18,4 @@ numba
 # torchaudio
 pandas~=2.0.3
 openai-whisper
+transformers
